@@ -21,6 +21,7 @@ end
 while coins >= 1 
 value[:pennies] += 1
 coins = coins - 1 
+end
 
 return value
 
