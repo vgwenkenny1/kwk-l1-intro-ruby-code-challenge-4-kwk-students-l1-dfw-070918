@@ -4,7 +4,6 @@ def least_coins(coins)
   
 value = {:quarters => 0, :dime => 0, :nickels => 0, :pennies => 0}
 
-
 while coins >= 25
 value[:quarters] += 1
 coins = coins - 25
