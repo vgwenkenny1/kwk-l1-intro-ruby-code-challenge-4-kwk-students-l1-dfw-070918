@@ -25,7 +25,6 @@ end
 
 return value
 
-  end
 end
 
 puts least_coins(29)
