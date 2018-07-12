@@ -27,4 +27,4 @@ return value
 
 end
 
-puts least_coins(29)
+puts least_coins(26)
